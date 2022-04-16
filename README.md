@@ -14,4 +14,4 @@ First Perl Decoder made from user “anszom”
 THX 2 Andrzej for the Encoding Sample in <br>
 PERL: https://gist.github.com/anszom/732b5b7dda9ccb624980153dff1d7c1f
 
-
+http://kazus.ru/forums/showpost.php?p=1311977&postcount=4224
